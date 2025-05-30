@@ -1,0 +1,66 @@
+{"level":"warn","message":"Invalid token attempt: jwt malformed","timestamp":"2025-05-13T06:23:31.931Z"}
+{"level":"error","message":"Registration error: Malformed UTF-8 data","timestamp":"2025-05-13T11:11:41.875Z"}
+{"level":"error","message":"Registration error: Malformed UTF-8 data","timestamp":"2025-05-13T11:20:58.606Z"}
+{"level":"error","message":"Registration error: Malformed UTF-8 data","timestamp":"2025-05-13T11:30:00.411Z"}
+{"level":"error","message":"Registration error: Malformed UTF-8 data","timestamp":"2025-05-13T11:34:34.175Z"}
+{"level":"error","message":"Registration error: ","timestamp":"2025-05-13T11:35:30.844Z"}
+{"level":"error","message":"Registration error: ","timestamp":"2025-05-13T11:44:03.647Z"}
+{"level":"error","message":"Registration error: ","timestamp":"2025-05-19T08:59:59.995Z"}
+{"level":"error","message":"Registration error: Unexpected end of JSON input","timestamp":"2025-05-19T09:07:08.206Z"}
+{"level":"error","message":"Registration error: ","timestamp":"2025-05-19T09:11:40.746Z"}
+{"level":"error","message":"Registration error: ","timestamp":"2025-05-28T12:15:14.921Z"}
+{"level":"error","message":"Registration error: ","timestamp":"2025-05-28T12:33:37.847Z"}
+{"level":"error","message":"Database connection failed:","stack":"Error\n    at PromisePool.query (D:\\user-management-system\\server\\node_modules\\mysql2\\lib\\promise\\pool.js:36:22)\n    at checkDatabaseConnection (file:///D:/user-management-system/server/src/server.js:22:33)\n    at file:///D:/user-management-system/server/src/server.js:31:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)","timestamp":"2025-05-29T06:11:30.660Z"}
+{"level":"error","message":"Database connection failed:","stack":"Error\n    at PromisePool.query (D:\\user-management-system\\server\\node_modules\\mysql2\\lib\\promise\\pool.js:36:22)\n    at checkDatabaseConnection (file:///D:/user-management-system/server/src/server.js:22:33)\n    at file:///D:/user-management-system/server/src/server.js:31:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)","timestamp":"2025-05-29T06:21:36.610Z"}
+{"0":{"test":1},"level":"info","message":"Database connection successful:","timestamp":"2025-05-29T06:41:04.085Z"}
+{"level":"info","message":"New user registered: shivam@gmail.com","timestamp":"2025-05-29T06:43:31.297Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T06:44:12.131Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T06:47:45.257Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T06:56:45.581Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T06:56:51.087Z"}
+{"0":{"test":1},"level":"info","message":"Database connection successful:","timestamp":"2025-05-29T06:58:28.367Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T06:59:29.002Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:01:21.813Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:11:06.749Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:12:58.082Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:13:03.295Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:21:09.530Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:21:19.730Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:22:15.139Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:24:27.801Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:24:50.301Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:25:06.689Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:25:37.556Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:27:06.527Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:27:11.199Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:27:59.009Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:28:15.020Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:29:01.552Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:29:05.328Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:29:37.759Z"}
+{"level":"info","message":"2FA setup accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:29:43.026Z"}
+{"level":"info","message":"2FA verified for user: shivam@gmail.com","timestamp":"2025-05-29T07:29:50.386Z"}
+{"level":"info","message":"Profile accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:29:50.450Z"}
+{"level":"info","message":"Profile accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:33:59.478Z"}
+{"level":"info","message":"Profile accessed for user: shivam@gmail.com","timestamp":"2025-05-29T07:34:03.700Z"}
+{"level":"info","message":"New user registered: hello@gmail.com","timestamp":"2025-05-29T07:35:53.874Z"}
+{"level":"info","message":"2FA setup accessed for user: hello@gmail.com","timestamp":"2025-05-29T07:35:54.498Z"}
+{"level":"info","message":"2FA verified for user: hello@gmail.com","timestamp":"2025-05-29T07:36:29.527Z"}
+{"level":"info","message":"Profile accessed for user: hello@gmail.com","timestamp":"2025-05-29T07:36:29.627Z"}
+{"level":"warn","message":"Invalid 2FA code for user: hello@gmail.com","timestamp":"2025-05-29T07:39:58.808Z"}
+{"level":"info","message":"Successful login for user: hello@gmail.com","timestamp":"2025-05-29T07:40:48.919Z"}
+{"level":"info","message":"Profile accessed for user: hello@gmail.com","timestamp":"2025-05-29T07:40:49.021Z"}
+{"level":"info","message":"Successful login for user: hello@gmail.com","timestamp":"2025-05-29T07:43:06.288Z"}
+{"level":"info","message":"Profile accessed for user: hello@gmail.com","timestamp":"2025-05-29T07:43:06.392Z"}
+{"level":"warn","message":"Invalid token attempt: jwt expired","timestamp":"2025-05-29T08:49:09.143Z"}
+{"level":"warn","message":"Invalid token attempt: jwt expired","timestamp":"2025-05-29T08:49:32.817Z"}
+{"level":"warn","message":"Invalid token attempt: jwt expired","timestamp":"2025-05-29T08:49:34.424Z"}
+{"level":"info","message":"New user registered: admin@gmail.com","timestamp":"2025-05-29T09:11:03.397Z"}
+{"level":"info","message":"2FA setup accessed for user: admin@gmail.com","timestamp":"2025-05-29T09:11:04.490Z"}
+{"level":"info","message":"2FA verified for user: admin@gmail.com","timestamp":"2025-05-29T09:11:41.824Z"}
+{"level":"info","message":"Profile accessed for user: admin@gmail.com","timestamp":"2025-05-29T09:11:41.967Z"}
+{"level":"info","message":"Successful admin login: admin@gmail.com","timestamp":"2025-05-29T09:25:46.065Z"}
+{"level":"warn","message":"Invalid admin token attempt: pool is not defined","timestamp":"2025-05-29T09:25:59.149Z"}
+{"level":"warn","message":"Invalid admin token attempt: pool is not defined","timestamp":"2025-05-29T09:26:04.694Z"}
+{"level":"info","message":"Successful admin login: admin@gmail.com","timestamp":"2025-05-29T09:26:45.655Z"}
+{"level":"warn","message":"Invalid admin token attempt: pool is not defined","timestamp":"2025-05-29T09:27:33.578Z"}
